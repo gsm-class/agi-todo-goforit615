@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "agi"
+assignment: "todo"
+owner:
+  username: "goforit615"
+  id: 141900832
+  accepted_at: "2026-09-09T00:27:18Z"
+source:
+  owner: "gsm-class"
+  owner_id: 318515310
+  repo: "todo"
+  branch: "main"
